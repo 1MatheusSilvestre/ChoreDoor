@@ -1,4 +1,4 @@
-#Um jogo feito em HTML,CSS e javaScript,
+<h1>Um jogo feito em HTML,CSS e javaScript. </h1>
 
 <h2> O ChoreDoor com o ChoreBot! </h2>
 
